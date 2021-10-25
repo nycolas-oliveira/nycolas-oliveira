@@ -1,13 +1,6 @@
 - 👋 Hi, I’m Nycolas Oliveira
 - 🔭 I’m currently working on a RPA Development StartUp 
 - 🌱 I'm currently learning about some frameworks, Desktop Apps and Python
-##
-
-<div align="left">
-  <a href="https://github.com/nycolas-oliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nycolas-oliveira&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" width ="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycolas-oliveira&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
 
 ##
 
