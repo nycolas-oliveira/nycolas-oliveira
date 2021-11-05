@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nycolas Oliveira
-- 🔭 I’m currently working on a RPA Development StartUp 
+- 🔭 I’m currently working with RPA Development 
 - 🌱 I'm currently learning about some frameworks, Desktop Apps and Python
 
 ##
